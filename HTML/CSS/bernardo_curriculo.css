@@ -1,0 +1,20 @@
+body
+{
+    background-color: beige;
+}
+
+h1,h2
+{
+    color: green;
+}
+
+table
+{
+background-color: white;
+}
+
+.navegacao a
+{
+    color: darkgoldenrod;
+    text-decoration: none;
+}
